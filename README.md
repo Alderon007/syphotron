@@ -1,6 +1,6 @@
 # Syphotron
 
-Responsive static landing page for syphotron.com, using the approved mint-on-navy logo. Plain HTML and CSS; no installation, build dependencies, tracking, external fonts or backend.
+Responsive static landing page for syphotron.com, using the approved Ember orange-on-charcoal logo. Plain HTML and CSS; no installation, build dependencies, tracking, external fonts or backend.
 
 ## Cloudflare Pages deployment
 
@@ -23,3 +23,4 @@ Open index.html directly to preview. Edit copy in index.html and colors/layout i
 The page avoids unverified products, customer claims and nonfunctional signup forms. Add contact links when a working destination is confirmed.
 
 All branding assets are supplied for Syphotron's use. No open-source license is granted.
+
